@@ -1,0 +1,629 @@
+Script started on Tue 07 Nov 2017 10:06:37 PM PST
+devon.wilson1@syccuxas01:~/cs162/project3> g[Kexitrm textfilels[Kscript textfile[2Prm textscriptls[Kcd project3[3Pcs162[4Pexitvim inventory.cpp[1Ptory.cpp[9P./a.outg++ book.h book.cpp inventory.cpp inventory.h main.cpp[2Phcpp
+devon.wilson1@syccuxas01:~/cs162/project3> ./a.out
+ 
+ 
+********MAIN MENU******** 
+1 - Print Inventory 
+2 - Search by Publisher 
+3 - Find book by ISBN Number 
+4 - Add Book 
+5 - Modify 
+6 - quit 
+Enter choice: 
+1
+ISBN: 1
+======Book======
+Title: 1984
+Author: George Orwell
+Publisher: HarperCollins
+Price: 20.99
+In stock total: 212
+ISBN: 2
+======Book======
+Title: Oliver Twist
+Author: Charles Dickins
+Publisher: Random House
+Price: 14.99
+In stock total: 152
+ISBN: 3
+======Book======
+Title: White Fang
+Author: Jack London
+Publisher: Random House
+Price: 11
+In stock total: 119
+ISBN: 4
+======Book======
+Title: Dracula
+Author: Bram Stoker
+Publisher: Penguin Books
+Price: 15.99
+In stock total: 234
+ISBN: 5
+======Book======
+Title: Persuasion
+Author: ‎Jane Austin
+Publisher: Random House
+Price: 12.99
+In stock total: 323
+ISBN: 6
+======Book======
+Title: Hard times
+Author: Charles Dickins
+Publisher: Penguin Books
+Price: 11.99
+In stock total: 317
+ISBN: 7
+======Book======
+Title: Flatland
+Author: Edwin Abbott
+Publisher: McGraw-Hill
+Price: 8.99
+In stock total: 34
+ISBN: 8
+======Book======
+Title: Alice in Wonderland
+Author: Lewis Carroll
+Publisher: HarperCollins
+Price: 14.99
+In stock total: 128
+ 
+ 
+********MAIN MENU******** 
+1 - Print Inventory 
+2 - Search by Publisher 
+3 - Find book by ISBN Number 
+4 - Add Book 
+5 - Modify 
+6 - quit 
+Enter choice: 
+5
+ 
+ 
+********Modify******** 
+1 - ISBN 
+2 - title 
+3 - author 
+4 - publisher 
+5 - price 
+6 - In Stock Total 
+7 - go back to main menu
+Enter choice: 
+1
+ 
+ISBN number of book to modify? 
+1
+ 
+Book's ISBN? 
+9
+ 
+ 
+********Modify******** 
+1 - ISBN 
+2 - title 
+3 - author 
+4 - publisher 
+5 - price 
+6 - In Stock Total 
+7 - go back to main menu
+Enter choice: 
+7
+ 
+ 
+********MAIN MENU******** 
+1 - Print Inventory 
+2 - Search by Publisher 
+3 - Find book by ISBN Number 
+4 - Add Book 
+5 - Modify 
+6 - quit 
+Enter choice: 
+1
+ISBN: 9
+======Book======
+Title: 1984
+Author: George Orwell
+Publisher: HarperCollins
+Price: 20.99
+In stock total: 212
+ISBN: 2
+======Book======
+Title: Oliver Twist
+Author: Charles Dickins
+Publisher: Random House
+Price: 14.99
+In stock total: 152
+ISBN: 3
+======Book======
+Title: White Fang
+Author: Jack London
+Publisher: Random House
+Price: 11
+In stock total: 119
+ISBN: 4
+======Book======
+Title: Dracula
+Author: Bram Stoker
+Publisher: Penguin Books
+Price: 15.99
+In stock total: 234
+ISBN: 5
+======Book======
+Title: Persuasion
+Author: ‎Jane Austin
+Publisher: Random House
+Price: 12.99
+In stock total: 323
+ISBN: 6
+======Book======
+Title: Hard times
+Author: Charles Dickins
+Publisher: Penguin Books
+Price: 11.99
+In stock total: 317
+ISBN: 7
+======Book======
+Title: Flatland
+Author: Edwin Abbott
+Publisher: McGraw-Hill
+Price: 8.99
+In stock total: 34
+ISBN: 8
+======Book======
+Title: Alice in Wonderland
+Author: Lewis Carroll
+Publisher: HarperCollins
+Price: 14.99
+In stock total: 128
+ 
+ 
+********MAIN MENU******** 
+1 - Print Inventory 
+2 - Search by Publisher 
+3 - Find book by ISBN Number 
+4 - Add Book 
+5 - Modify 
+6 - quit 
+Enter choice: 
+5
+ 
+ 
+********Modify******** 
+1 - ISBN 
+2 - title 
+3 - author 
+4 - publisher 
+5 - price 
+6 - In Stock Total 
+7 - go back to main menu
+Enter choice: 
+2
+ 
+ISBN number of book to modify? 
+3
+ 
+Title? 
+Devons Pu roject3
+ 
+ 
+********Modify******** 
+1 - ISBN 
+2 - title 
+3 - author 
+4 - publisher 
+5 - price 
+6 - In Stock Total 
+7 - go back to main menu
+Enter choice: 
+7
+ 
+ 
+********MAIN MENU******** 
+1 - Print Inventory 
+2 - Search by Publisher 
+3 - Find book by ISBN Number 
+4 - Add Book 
+5 - Modify 
+6 - quit 
+Enter choice: 
+1
+ISBN: 9
+======Book======
+Title: 1984
+Author: George Orwell
+Publisher: HarperCollins
+Price: 20.99
+In stock total: 212
+ISBN: 2
+======Book======
+Title: Oliver Twist
+Author: Charles Dickins
+Publisher: Random House
+Price: 14.99
+In stock total: 152
+ISBN: 3
+======Book======
+Title: Devons Project3
+Author: Jack London
+Publisher: Random House
+Price: 11
+In stock total: 119
+ISBN: 4
+======Book======
+Title: Dracula
+Author: Bram Stoker
+Publisher: Penguin Books
+Price: 15.99
+In stock total: 234
+ISBN: 5
+======Book======
+Title: Persuasion
+Author: ‎Jane Austin
+Publisher: Random House
+Price: 12.99
+In stock total: 323
+ISBN: 6
+======Book======
+Title: Hard times
+Author: Charles Dickins
+Publisher: Penguin Books
+Price: 11.99
+In stock total: 317
+ISBN: 7
+======Book======
+Title: Flatland
+Author: Edwin Abbott
+Publisher: McGraw-Hill
+Price: 8.99
+In stock total: 34
+ISBN: 8
+======Book======
+Title: Alice in Wonderland
+Author: Lewis Carroll
+Publisher: HarperCollins
+Price: 14.99
+In stock total: 128
+ 
+ 
+********MAIN MENU******** 
+1 - Print Inventory 
+2 - Search by Publisher 
+3 - Find book by ISBN Number 
+4 - Add Book 
+5 - Modify 
+6 - quit 
+Enter choice: 
+3 5
+ 
+ 
+********Modify******** 
+1 - ISBN 
+2 - title 
+3 - author 
+4 - publisher 
+5 - price 
+6 - In Stock Total 
+7 - go back to main menu
+Enter choice: 
+3
+ 
+ISBN number of book to modify? 
+5
+ 
+Author? 
+Devon Wilson
+ 
+ 
+********Modify******** 
+1 - ISBN 
+2 - title 
+3 - author 
+4 - publisher 
+5 - price 
+6 - In Stock Total 
+7 - go back to main menu
+Enter choice: 
+7
+ 
+ 
+********MAIN MENU******** 
+1 - Print Inventory 
+2 - Search by Publisher 
+3 - Find book by ISBN Number 
+4 - Add Book 
+5 - Modify 
+6 - quit 
+Enter choice: 
+1
+ISBN: 9
+======Book======
+Title: 1984
+Author: George Orwell
+Publisher: HarperCollins
+Price: 20.99
+In stock total: 212
+ISBN: 2
+======Book======
+Title: Oliver Twist
+Author: Charles Dickins
+Publisher: Random House
+Price: 14.99
+In stock total: 152
+ISBN: 3
+======Book======
+Title: Devons Project3
+Author: Jack London
+Publisher: Random House
+Price: 11
+In stock total: 119
+ISBN: 4
+======Book======
+Title: Dracula
+Author: Bram Stoker
+Publisher: Penguin Books
+Price: 15.99
+In stock total: 234
+ISBN: 5
+======Book======
+Title: Persuasion
+Author: Devon Wilson
+Publisher: Random House
+Price: 12.99
+In stock total: 323
+ISBN: 6
+======Book======
+Title: Hard times
+Author: Charles Dickins
+Publisher: Penguin Books
+Price: 11.99
+In stock total: 317
+ISBN: 7
+======Book======
+Title: Flatland
+Author: Edwin Abbott
+Publisher: McGraw-Hill
+Price: 8.99
+In stock total: 34
+ISBN: 8
+======Book======
+Title: Alice in Wonderland
+Author: Lewis Carroll
+Publisher: HarperCollins
+Price: 14.99
+In stock total: 128
+ 
+ 
+********MAIN MENU******** 
+1 - Print Inventory 
+2 - Search by Publisher 
+3 - Find book by ISBN Number 
+4 - Add Book 
+5 - Modify 
+6 - quit 
+Enter choice: 
+5
+ 
+ 
+********Modify******** 
+1 - ISBN 
+2 - title 
+3 - author 
+4 - publisher 
+5 - price 
+6 - In Stock Total 
+7 - go back to main menu
+Enter choice: 
+5
+ 
+ISBN number of book to modify? 
+4
+ 
+Price? 
+10.99     50.99
+ 
+ 
+********Modify******** 
+1 - ISBN 
+2 - title 
+3 - author 
+4 - publisher 
+5 - price 
+6 - In Stock Total 
+7 - go back to main menu
+Enter choice: 
+7
+ 
+ 
+********MAIN MENU******** 
+1 - Print Inventory 
+2 - Search by Publisher 
+3 - Find book by ISBN Number 
+4 - Add Book 
+5 - Modify 
+6 - quit 
+Enter choice: 
+1
+ISBN: 9
+======Book======
+Title: 1984
+Author: George Orwell
+Publisher: HarperCollins
+Price: 20.99
+In stock total: 212
+ISBN: 2
+======Book======
+Title: Oliver Twist
+Author: Charles Dickins
+Publisher: Random House
+Price: 14.99
+In stock total: 152
+ISBN: 3
+======Book======
+Title: Devons Project3
+Author: Jack London
+Publisher: Random House
+Price: 11
+In stock total: 119
+ISBN: 4
+======Book======
+Title: Dracula
+Author: Bram Stoker
+Publisher: Penguin Books
+Price: 50.99
+In stock total: 234
+ISBN: 5
+======Book======
+Title: Persuasion
+Author: Devon Wilson
+Publisher: Random House
+Price: 12.99
+In stock total: 323
+ISBN: 6
+======Book======
+Title: Hard times
+Author: Charles Dickins
+Publisher: Penguin Books
+Price: 11.99
+In stock total: 317
+ISBN: 7
+======Book======
+Title: Flatland
+Author: Edwin Abbott
+Publisher: McGraw-Hill
+Price: 8.99
+In stock total: 34
+ISBN: 8
+======Book======
+Title: Alice in Wonderland
+Author: Lewis Carroll
+Publisher: HarperCollins
+Price: 14.99
+In stock total: 128
+ 
+ 
+********MAIN MENU******** 
+1 - Print Inventory 
+2 - Search by Publisher 
+3 - Find book by ISBN Number 
+4 - Add Book 
+5 - Modify 
+6 - quit 
+Enter choice: 
+5
+ 
+ 
+********Modify******** 
+1 - ISBN 
+2 - title 
+3 - author 
+4 - publisher 
+5 - price 
+6 - In Stock Total 
+7 - go back to main menu
+Enter choice: 
+6
+ 
+ISBN number of book to modify? 
+8
+ 
+In Stock Total? 
+100
+ 
+ 
+********Modify******** 
+1 - ISBN 
+2 - title 
+3 - author 
+4 - publisher 
+5 - price 
+6 - In Stock Total 
+7 - go back to main menu
+Enter choice: 
+7
+ 
+ 
+********MAIN MENU******** 
+1 - Print Inventory 
+2 - Search by Publisher 
+3 - Find book by ISBN Number 
+4 - Add Book 
+5 - Modify 
+6 - quit 
+Enter choice: 
+1
+ISBN: 9
+======Book======
+Title: 1984
+Author: George Orwell
+Publisher: HarperCollins
+Price: 20.99
+In stock total: 212
+ISBN: 2
+======Book======
+Title: Oliver Twist
+Author: Charles Dickins
+Publisher: Random House
+Price: 14.99
+In stock total: 152
+ISBN: 3
+======Book======
+Title: Devons Project3
+Author: Jack London
+Publisher: Random House
+Price: 11
+In stock total: 119
+ISBN: 4
+======Book======
+Title: Dracula
+Author: Bram Stoker
+Publisher: Penguin Books
+Price: 50.99
+In stock total: 234
+ISBN: 5
+======Book======
+Title: Persuasion
+Author: Devon Wilson
+Publisher: Random House
+Price: 12.99
+In stock total: 323
+ISBN: 6
+======Book======
+Title: Hard times
+Author: Charles Dickins
+Publisher: Penguin Books
+Price: 11.99
+In stock total: 317
+ISBN: 7
+======Book======
+Title: Flatland
+Author: Edwin Abbott
+Publisher: McGraw-Hill
+Price: 8.99
+In stock total: 34
+ISBN: 8
+======Book======
+Title: Alice in Wonderland
+Author: Lewis Carroll
+Publisher: HarperCollins
+Price: 14.99
+In stock total: 100
+ 
+ 
+********MAIN MENU******** 
+1 - Print Inventory 
+2 - Search by Publisher 
+3 - Find book by ISBN Number 
+4 - Add Book 
+5 - Modify 
+6 - quit 
+Enter choice: 
+6
+ 
+*** END OF PROGRAM **
+devon.wilson1@syccuxas01:~/cs162/project3> ls
+[0m[00;32ma.out[0m  [00mbook.cpp[0m  [00mbook.h[0m  [00mbook.h.gch[0m  [00minventory.cpp[0m  [00minventory.h[0m  [00minventory.h.gch[0m  [00minventory.txt[0m  [00mmain.cpp[0m  [00mmakefile[0m  [00mnewInventory.txt[0m  [00mproject3script[0m  [00mtypescript[0m
+devon.wilson1@syccuxas01:~/cs162/project3> exit
+exit
+
+Script done on Tue 07 Nov 2017 10:09:30 PM PST
